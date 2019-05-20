@@ -2,7 +2,7 @@
 #include "account.h"
 
 account::account(std::string accname) {
-    std::string name = accname; 
+    name = accname; 
 }
 
 float account::sum(){
